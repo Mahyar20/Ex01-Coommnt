@@ -1,0 +1,39 @@
+.pic{
+    background-image: url('./pictures/images.png');
+    background-repeat: no-repeat;
+   max-width: 10%;
+   height: auto;
+    margin-left: -80px;
+}
+.pic2{
+    background-image: url('./pictures/images.png');
+    background-repeat: no-repeat;
+   max-width: 5%;
+   height: auto;
+    margin-left: -48px;
+}
+.pic3{
+    background-image: url('./pictures/images.png');
+    background-repeat: no-repeat;
+    max-width: 4.8%;
+    height: auto;
+    margin-left: -50px;
+    border-radius: 10px;
+}
+.Container{
+    margin-left: 100px;
+    
+}
+.time{
+    opacity: 50%;
+    margin-left: 80px;
+    margin-top: -38px;
+}
+.Text{
+
+    margin-top: -10px;
+}
+.InnerContainer{
+    margin-left: 40px;
+    margin-top: -90px;
+}
